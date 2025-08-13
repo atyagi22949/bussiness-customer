@@ -1,1 +1,1 @@
-# bussiness-customer
+# bussiness-buyers-sellers
